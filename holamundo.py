@@ -1,5 +1,5 @@
-def holamundo(nombre):
+def holamundo():
 	"""Esta es la funcion de hola mundo"""
-	print "Hola " + nombre + "."
+	print "hola mundo"
 
-holamundo("Pablo")
+holamundo()
